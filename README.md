@@ -52,10 +52,32 @@
 
 <h2 style="text-align: center">Statistics</h2>
 
-![Congard's GitHub stats](https://github-readme-stats.vercel.app/api?username=congard&count_private=true&show_icons=true&show_owner=true&theme=dark#gh-dark-mode-only)
-![Congard's GitHub stats](https://github-readme-stats.vercel.app/api?username=congard&count_private=true&show_icons=true&show_owner=true&theme=default#gh-light-mode-only)
+<!-- Stats -->
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=congard&count_private=true&show_icons=true&show_owner=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=congard&count_private=true&show_icons=true&show_owner=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=congard&count_private=true&show_icons=true&show_owner=true" />
+</picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=10&theme=default#gh-light-mode-only)
+<br>
+
+<!-- Top Langs -->
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=10&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=10"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=10" />
+</picture>
 
 ![](https://hit.yhype.me/github/profile?user_id=35779485)
