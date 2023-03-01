@@ -50,7 +50,9 @@
   ![JavaFx](https://img.shields.io/badge/-JavaFx-fff?&logo=JavaFx&logoColor=white)
   ...
 
-<h2 align="center">Statistics</h2>
+<div align="center">
+
+<h2>Statistics</h2>
 
 <!-- Stats -->
 <picture>
@@ -79,5 +81,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=10" />
 </picture>
+
+</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=35779485)
