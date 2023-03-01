@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 <h1>Hi there, I'm Daniel</h1>
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dbcongard@gmail.com)
@@ -8,7 +8,7 @@
 <!-- ![githubbadge](https://img.shields.io/github/followers/congard?style=social) -->
 </div>
 
-<h2 style="text-align: center">About me</h2>
+<h2 align="center">About me</h2>
 
 - 🔭 I’m a 2nd year Computer Science student at AGH University of Science and Technology
 - 🌱 I’m currently learning Rust, Scala
@@ -16,7 +16,7 @@
 - 🌐 I speak 🇬🇧English, 🇵🇱Polish, 🇺🇦Ukrainian, 🇷🇺Russian
 - 👨‍🎓 I enjoy learning new things
 
-<h2 style="text-align: center">Languages & Tools</h2>
+<h2 align="center">Languages & Tools</h2>
 
 - Languages I use the most
   <br><div style="padding-bottom: 4px;"></div>
@@ -50,7 +50,7 @@
   ![JavaFx](https://img.shields.io/badge/-JavaFx-fff?&logo=JavaFx&logoColor=white)
   ...
 
-<h2 style="text-align: center">Statistics</h2>
+<h2 align="center">Statistics</h2>
 
 <!-- Stats -->
 <picture>
