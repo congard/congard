@@ -64,22 +64,20 @@
   srcset="https://github-readme-stats.vercel.app/api?username=congard&count_private=true&show_icons=true&show_owner=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=congard&count_private=true&show_icons=true&show_owner=true" />
+<img height="144px" src="https://github-readme-stats.vercel.app/api?username=congard&count_private=true&show_icons=true&show_owner=true" />
 </picture>
-
-<br>
 
 <!-- Top Langs -->
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=10&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=8&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=10"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=8"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=10" />
+<img height="144px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=8" />
 </picture>
 
 </div>
