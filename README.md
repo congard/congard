@@ -10,11 +10,11 @@
 
 <h2 align="center">About me</h2>
 
-- 🔭 I’m a 2nd year Computer Science student at AGH University of Science and Technology
-- 🌱 I’m currently learning Rust, Scala
-- ⚡ I'm interested in Linux, system programming, GPU programming and in any other interesting project :)
+- 🔭 I’m a 3rd year Computer Science student at AGH University of Science and Technology
+- 🌱 I’m currently learning Rust
+- ⚡ I'm interested in Linux, native programming, GPU programming and in any other interesting project :)
 - 🌐 I speak 🇬🇧English, 🇵🇱Polish, 🇺🇦Ukrainian, 🇷🇺Russian
-- 👨‍🎓 I enjoy learning new things
+- 👨‍🎓 I really enjoy learning new things
 
 <h2 align="center">Languages & Tools</h2>
 
@@ -26,7 +26,6 @@
 - Languages I'm learning
   <br><div style="padding-bottom: 4px;"></div>
   ![Rust](https://img.shields.io/badge/-Rust-000000?&logo=rust&logoColor=white)
-  ![Scala](https://img.shields.io/badge/-Scala-DC322F?&logo=scala&logoColor=white)
 - Languages I can write in
   <br><div style="padding-bottom: 4px;"></div>
   ![C](https://img.shields.io/badge/-C-A8B9CC?&logo=C&logoColor=black)
@@ -36,6 +35,8 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=TypeScript&logoColor=white)
   ![R](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white)
   ![Lua](https://img.shields.io/badge/-Lua-2C2D72?&logo=Lua&logoColor=white)
+  ![Scala](https://img.shields.io/badge/-Scala-DC322F?&logo=scala&logoColor=white)
+  ...
 - Other tools
   <br><div style="padding-bottom: 4px;"></div>
   ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white)
