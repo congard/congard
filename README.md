@@ -71,11 +71,11 @@
 <!-- Top Langs -->
 <picture>
 <source 
-  srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=8&theme=dark&hide=jupyter-notebook"
+  srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=8&theme=dark&hide=jupyter%20notebook,tex"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=8&hide=jupyter-notebook"
+  srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=8&hide=jupyter%20notebook,tex"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img height="144px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=8" />
