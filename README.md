@@ -10,22 +10,26 @@
 
 <h2 align="center">About me</h2>
 
-- 🔭 I’m a 3rd year Computer Science student at AGH University of Science and Technology
-- 🌱 I’m currently learning Rust
-- ⚡ I'm interested in Linux, native programming, GPU programming and in any other interesting project :)
+- 🔭 I’m a 3rd year Computer Science student in the Faculty of Informatics at AGH University of Science and Technology
+- 🌱 I’m currently learning React
+- ⚡ I'm mainly interested in C++, JVM languages (especially Kotlin!), Linux and IoT. But I'm always open for new challenges, since knowledge has no limits!
 - 🌐 I speak 🇬🇧English, 🇵🇱Polish, 🇺🇦Ukrainian, 🇷🇺Russian
 - 👨‍🎓 I really enjoy learning new things
 
 <h2 align="center">Languages & Tools</h2>
 
+- My favorite languages are
+  <br><div style="padding-bottom: 4px;"></div>
+  ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?&logo=kotlin&logoColor=white)
 - Languages I use the most
   <br><div style="padding-bottom: 4px;"></div>
   ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?&logo=kotlin&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-fff?&logo=java&logoColor=00599C)
-- Languages I'm learning
+- Technologies I'm learning
   <br><div style="padding-bottom: 4px;"></div>
-  ![Rust](https://img.shields.io/badge/-Rust-000000?&logo=rust&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 - Languages I can write in
   <br><div style="padding-bottom: 4px;"></div>
   ![C](https://img.shields.io/badge/-C-A8B9CC?&logo=C&logoColor=black)
@@ -37,7 +41,7 @@
   ![Lua](https://img.shields.io/badge/-Lua-2C2D72?&logo=Lua&logoColor=white)
   ![Scala](https://img.shields.io/badge/-Scala-DC322F?&logo=scala&logoColor=white)
   ...
-- Other tools
+- Technologies I'm familiar with
   <br><div style="padding-bottom: 4px;"></div>
   ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white)
   ![CMake](https://img.shields.io/badge/-CMake-064F8C?&logo=CMake&logoColor=white)
@@ -49,37 +53,21 @@
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=CSS3&logoColor=white)
   ![Qt](https://img.shields.io/badge/-Qt-41CD52?&logo=Qt&logoColor=white)
   ![JavaFx](https://img.shields.io/badge/-JavaFx-fff?&logo=JavaFx&logoColor=white)
+  ![Neo4J](https://img.shields.io/badge/Neo4j-018bff?logo=neo4j&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
   ...
 
-<div align="center">
+<div align="center" style="display: flex;">
 
 <h2>Statistics</h2>
 
 <!-- Stats -->
-<picture>
-<source 
-  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=congard&count_private=true&show_icons=true&show_owner=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=congard&count_private=true&show_icons=true&show_owner=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img height="144px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=congard&count_private=true&show_icons=true&show_owner=true" />
-</picture>
+[![Daniel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=congard&hide_rank=true&count_private=true&hide=jupyter%20notebook,tex&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/congard#gh-dark-mode-only)
+[![Daniel's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=congard&hide_rank=true&count_private=true&hide=jupyter%20notebook,tex&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/congard#gh-light-mode-only)
 
 <!-- Top Langs -->
-<picture>
-<source 
-  srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=8&theme=dark&hide=jupyter%20notebook,tex"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=8&hide=jupyter%20notebook,tex"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img height="144px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=8" />
-</picture>
+[![Daniel's GitHub langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=8&theme=dark&hide=jupyter%20notebook,tex#gh-dark-mode-only)](https://github.com/congard#gh-dark-mode-only)
+[![Daniel's GitHub langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=8&hide=jupyter%20notebook,tex#gh-light-mode-only)](https://github.com/congard#gh-light-mode-only)
 
 </div>
 
