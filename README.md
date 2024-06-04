@@ -62,8 +62,10 @@
 <h2>Statistics</h2>
 
 <!-- Stats -->
+<!--
 [![Daniel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=congard&hide_rank=true&count_private=true&hide=jupyter%20notebook,tex&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/congard#gh-dark-mode-only)
 [![Daniel's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=congard&hide_rank=true&count_private=true&hide=jupyter%20notebook,tex&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/congard#gh-light-mode-only)
+-->
 
 <!-- Top Langs -->
 [![Daniel's GitHub langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=congard&layout=compact&langs_count=8&theme=dark&hide=jupyter%20notebook,tex#gh-dark-mode-only)](https://github.com/congard#gh-dark-mode-only)
