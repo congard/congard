@@ -26,19 +26,17 @@
   ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?&logo=kotlin&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-fff?&logo=java&logoColor=00599C)
-- Technologies I'm learning
-  <br><div style="padding-bottom: 4px;"></div>
-  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 - Languages I can write in
   <br><div style="padding-bottom: 4px;"></div>
   ![C](https://img.shields.io/badge/-C-A8B9CC?&logo=C&logoColor=black)
+  ![C#](https://img.shields.io/badge/-C%23-512BD4?&logo=.net&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-ccc?&logo=sql&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=TypeScript&logoColor=white)
-  ![R](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white)
+  <!-- ![R](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white) -->
   ![Lua](https://img.shields.io/badge/-Lua-2C2D72?&logo=Lua&logoColor=white)
-  ![Scala](https://img.shields.io/badge/-Scala-DC322F?&logo=scala&logoColor=white)
+  <!-- ![Scala](https://img.shields.io/badge/-Scala-DC322F?&logo=scala&logoColor=white) -->
   ...
 - Technologies I'm familiar with
   <br><div style="padding-bottom: 4px;"></div>
