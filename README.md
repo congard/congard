@@ -8,13 +8,12 @@
 <!-- ![githubbadge](https://img.shields.io/github/followers/congard?style=social) -->
 </div>
 
-<h2 align="center">About me</h2>
+<h2 align="center">About Me</h2>
 
-- 🔭 I’m a 3rd year Computer Science student in the Faculty of Informatics at AGH University of Science and Technology
-- 🌱 I’m currently learning React
-- ⚡ I'm mainly interested in C++, JVM languages (especially Kotlin!), Linux and IoT. But I'm always open for new challenges, since knowledge has no limits!
-- 🌐 I speak 🇬🇧English, 🇵🇱Polish, 🇺🇦Ukrainian, 🇷🇺Russian
-- 👨‍🎓 I really enjoy learning new things
+- 🎓 Computer Science graduate from the Faculty of Informatics at AGH University of Science and Technology
+- ⚙️ My main areas of interest include modern C++, GPU/Parallel Programming, JVM languages (especially Kotlin), Linux, and IoT - though I'm always eager to explore new technologies and challenges
+- 🌐 I speak English 🇬🇧, Polish 🇵🇱, Ukrainian 🇺🇦, and Russian 🇷🇺
+- 📚 Passionate about continuous learning and self-improvement
 
 <h2 align="center">Languages & Tools</h2>
 
